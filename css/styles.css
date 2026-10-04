@@ -103,10 +103,10 @@ h3 {
     font-size: 32px;
 }
 
-.blue { Background: #0b5cad; color:#f4f1ea;}
-.ink {background: #111111; color: #f2b705}
-.orange { background: #e0592a;}
-.yellow { background: #f2b705;}
+.blue { Background: #0b5cad; color:#f4f1ea; }
+.ink {background: #111111; color: #f2b705 }
+.orange { background: #e0592a; }
+.yellow { background: #f2b705; }
 
 .info {
     flex: 1;

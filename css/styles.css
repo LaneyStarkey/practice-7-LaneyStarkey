@@ -70,7 +70,7 @@ nav ul {
     text-decoration: none;
 }
 
-.site-header, .hero, .people, .site-footer{
+.site-header, .hero, .people, .site-footer {
     grid-column: span 2;
 }
 

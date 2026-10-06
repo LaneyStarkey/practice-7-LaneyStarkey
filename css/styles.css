@@ -51,7 +51,7 @@ nav ul {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    min-width: 520px;
+    min-height: 520px;
     padding: 48px 32px;
     background: #0b5cad;
     color:#f4f1ea;
